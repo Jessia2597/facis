@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T05:15:48.693240+00:00",
+  "generatedAt": "2026-10-16T09:29:42.939706+00:00",
   "repos": [
     {
       "key": "root",
@@ -9,10 +9,10 @@
       "url": "https://github.com/eclipse-xfsc/facis",
       "exists": true,
       "health": "green",
-      "lastCommitDate": "2026-10-16T04:05:55Z",
+      "lastCommitDate": "2026-10-16T05:15:48Z",
       "daysSinceLastCommit": 0,
       "contributorCount": 11,
-      "ciLastRunStatus": "pending",
+      "ciLastRunStatus": "success",
       "ciLastRunAt": "2026-10-16T05:15:05Z",
       "currentlyFailingWorkflows": [],
       "ciRecentFailureCount": 0,
@@ -215,7 +215,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-07-31T08:21:27Z",
-      "daysSinceLastCommit": 76,
+      "daysSinceLastCommit": 77,
       "contributorCount": 7,
       "ciLastRunStatus": "startup_failure",
       "ciLastRunAt": "2026-10-01T00:49:27Z",
@@ -483,10 +483,10 @@
           "sentiment": "neutral"
         },
         "ciRecentFailureCount": {
-          "previous": 6,
+          "previous": 7,
           "current": 7,
-          "delta": 1,
-          "direction": "up",
+          "delta": 0,
+          "direction": "stable",
           "sentiment": "bad"
         }
       }
@@ -769,10 +769,10 @@
           "sentiment": "neutral"
         },
         "ciRecentFailureCount": {
-          "previous": 16,
+          "previous": 17,
           "current": 17,
-          "delta": 1,
-          "direction": "up",
+          "delta": 0,
+          "direction": "stable",
           "sentiment": "bad"
         }
       }
