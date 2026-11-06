@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T12:55:52.846253+00:00",
+  "generatedAt": "2026-11-06T12:42:47.580099+00:00",
   "repos": [
     {
       "key": "root",
@@ -9,11 +9,11 @@
       "url": "https://github.com/eclipse-xfsc/facis",
       "exists": true,
       "health": "green",
-      "lastCommitDate": "2026-11-05T05:11:34Z",
+      "lastCommitDate": "2026-11-06T08:57:34Z",
       "daysSinceLastCommit": 0,
       "contributorCount": 11,
       "ciLastRunStatus": "success",
-      "ciLastRunAt": "2026-11-05T05:10:33Z",
+      "ciLastRunAt": "2026-11-06T08:57:37Z",
       "currentlyFailingWorkflows": [],
       "ciRecentFailureCount": 0,
       "ciFailuresByDay": [
@@ -70,7 +70,7 @@
       "exists": true,
       "health": "red",
       "lastCommitDate": "2026-10-13T17:02:48Z",
-      "daysSinceLastCommit": 22,
+      "daysSinceLastCommit": 23,
       "contributorCount": 12,
       "ciLastRunStatus": "failure",
       "ciLastRunAt": "2026-11-01T00:36:17Z",
@@ -78,8 +78,8 @@
       "ciRecentFailureCount": 2,
       "ciFailuresByDay": [
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -143,7 +143,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-08-03T17:00:52Z",
-      "daysSinceLastCommit": 93,
+      "daysSinceLastCommit": 94,
       "contributorCount": 4,
       "ciLastRunStatus": "success",
       "ciLastRunAt": "2026-07-01T19:35:09Z",
@@ -203,7 +203,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-07-31T08:21:27Z",
-      "daysSinceLastCommit": 97,
+      "daysSinceLastCommit": 98,
       "contributorCount": 7,
       "ciLastRunStatus": "startup_failure",
       "ciLastRunAt": "2026-10-01T00:49:27Z",
@@ -263,7 +263,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-06-08T11:05:16Z",
-      "daysSinceLastCommit": 150,
+      "daysSinceLastCommit": 151,
       "contributorCount": 4,
       "ciLastRunStatus": "success",
       "ciLastRunAt": "2026-06-08T11:05:18Z",
@@ -323,7 +323,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-04-13T11:43:50Z",
-      "daysSinceLastCommit": 206,
+      "daysSinceLastCommit": 207,
       "contributorCount": 2,
       "ciLastRunStatus": "success",
       "ciLastRunAt": "2026-04-13T11:43:52Z",
@@ -383,7 +383,7 @@
       "exists": true,
       "health": "green",
       "lastCommitDate": "2026-10-19T13:47:18Z",
-      "daysSinceLastCommit": 16,
+      "daysSinceLastCommit": 17,
       "contributorCount": 3,
       "ciLastRunStatus": "success",
       "ciLastRunAt": "2026-10-22T11:00:26Z",
@@ -443,7 +443,7 @@
       "exists": true,
       "health": "red",
       "lastCommitDate": "2026-11-02T07:37:43Z",
-      "daysSinceLastCommit": 3,
+      "daysSinceLastCommit": 4,
       "contributorCount": 5,
       "ciLastRunStatus": "failure",
       "ciLastRunAt": "2026-11-02T07:37:48Z",
@@ -452,8 +452,8 @@
       "ciFailuresByDay": [
         0,
         0,
-        0,
         1,
+        0,
         0,
         0,
         0
@@ -510,7 +510,7 @@
       "exists": true,
       "health": "red",
       "lastCommitDate": "2026-10-02T12:18:30Z",
-      "daysSinceLastCommit": 34,
+      "daysSinceLastCommit": 35,
       "contributorCount": 13,
       "ciLastRunStatus": "failure",
       "ciLastRunAt": "2026-11-01T00:10:18Z",
@@ -518,8 +518,8 @@
       "ciRecentFailureCount": 2,
       "ciFailuresByDay": [
         0,
-        0,
         2,
+        0,
         0,
         0,
         0,
@@ -583,19 +583,19 @@
       "exists": true,
       "health": "yellow",
       "lastCommitDate": "2026-10-30T11:25:48Z",
-      "daysSinceLastCommit": 6,
+      "daysSinceLastCommit": 7,
       "contributorCount": 7,
       "ciLastRunStatus": "success",
-      "ciLastRunAt": "2026-11-05T10:56:27Z",
+      "ciLastRunAt": "2026-11-06T08:00:54Z",
       "currentlyFailingWorkflows": [],
-      "ciRecentFailureCount": 7,
+      "ciRecentFailureCount": 5,
       "ciFailuresByDay": [
         0,
         0,
         0,
-        0,
-        3,
+        1,
         4,
+        0,
         0
       ],
       "failedRuns": [
@@ -628,22 +628,10 @@
           "branch": "feat/ocm-wallet",
           "date": "2026-11-03T15:30:48Z",
           "url": "https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator/actions/runs/41664651168"
-        },
-        {
-          "workflowName": "CI",
-          "branch": "feat/ocm-wallet",
-          "date": "2026-11-03T00:31:23Z",
-          "url": "https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator/actions/runs/41553456054"
-        },
-        {
-          "workflowName": "OCM wallet lane",
-          "branch": "feat/ocm-wallet",
-          "date": "2026-11-03T00:31:22Z",
-          "url": "https://github.com/eclipse-xfsc/facis-zero-trust-demonstrator/actions/runs/41553455666"
         }
       ],
       "openIssueCount": 0,
-      "openHumanPRCount": 29,
+      "openHumanPRCount": 30,
       "needsReviewPRCount": 4,
       "releaseCount": 0,
       "latestRelease": null,
@@ -669,10 +657,10 @@
           "sentiment": "neutral"
         },
         "ciRecentFailureCount": {
-          "previous": 4,
-          "current": 7,
-          "delta": 3,
-          "direction": "up",
+          "previous": 5,
+          "current": 5,
+          "delta": 0,
+          "direction": "stable",
           "sentiment": "bad"
         }
       }
